@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syaheerah</h1>
+<h1 align="center">Hi 👋, I'm Syaheerah ♛ </h1>
 <h3 align="center">A passionate frontend and backend developer from Malaysia</h3>
 
 - 👨‍💻 All of my projects are available at [my projects](https://github.com/Syaheerahxxi?tab=repositories)
